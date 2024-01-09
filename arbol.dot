@@ -1,0 +1,27 @@
+graph G {
+  A -- B;
+  B -- C;
+  C -- D;
+  D -- K;
+  E -- K;
+  E -- L;
+  F -- H;
+  F -- I;
+  G -- M;
+  G -- O;
+  H -- L;
+  I -- M;
+  J -- N;
+  J -- O;
+  N -- U;
+  P -- Z;
+  Q -- S;
+  Q -- T;
+  Q -- U;
+  R -- W;
+  R -- Y;
+  R -- Z;
+  S -- X;
+  T -- W;
+  V -- X;
+}
